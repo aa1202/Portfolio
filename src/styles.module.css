@@ -1,0 +1,49 @@
+
+.headerTitle {
+  margin-top: "10%";
+  text-align: "center";
+  font-size: "30px";
+}
+
+.portraitStyle {
+  width: "220px";
+  height: "200px";
+  margin-left: "25%";
+  margin-top: "1%";
+  display: "inline-block";
+}
+
+.bodyStyle {
+  display: "flex";
+  flex-direction: "row";
+  justify-content: "center";
+  align-items: "center";
+  height: "auto";
+}
+
+.projectsListStyle {
+  display: "inline-block";
+  height: "200px";
+  width: "300px";
+}
+
+.projectBox {
+  border: "1px solid black";
+  list-style: "none";
+  height: "auto";
+  display: "flex";
+  justify-content: "center";
+  flex-direction: "column";
+  text-align: "left";
+}
+
+.projectBoxGitHubIcon {
+  width: "50px";
+  height: "50px";
+  float: "right";
+}
+
+.projectGitHubLink {
+  margin-left: "80%";
+  display: "inline-block";
+}
