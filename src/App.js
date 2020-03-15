@@ -139,7 +139,7 @@ class Portrait extends Component {
             <div style={aboutMeText}>
 
               <p>Studerer informatikk på NTNU, andreåret</p>
-              <p>Leder av Fag- og kurskomiteen i Online</p>
+              <p>Tidligere leder av Fag- og kurskomiteen i Online</p>
               <p>Vitenskapelig assistent i Kodeløypa</p>
 
             </div>
